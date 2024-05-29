@@ -1,5 +1,3 @@
-// theme.js
-
 // 1. import `extendTheme` function
 import { extendTheme, ThemeConfig } from "@chakra-ui/react";
 
